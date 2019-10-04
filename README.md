@@ -1,7 +1,7 @@
 # Tale of the Detached HEAD
 ### A spooky exercise in version control
 
-Character List:
+### Character List:
 
 Melissa - The main protagonist of the story and obvious hero.
 Michael - A guy who thinks hes going to be the one to win at darts, but whose character arc throughout the story will show him heroically winning a sword in an archery contest after a guy in rennaissance clothes with a fake irish accent makes fun of him.
